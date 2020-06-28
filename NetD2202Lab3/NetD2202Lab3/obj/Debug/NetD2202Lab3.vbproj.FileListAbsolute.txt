@@ -1,0 +1,12 @@
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\bin\Debug\NetD2202Lab3.exe.config
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\bin\Debug\NetD2202Lab3.exe
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\bin\Debug\NetD2202Lab3.pdb
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\bin\Debug\NetD2202Lab3.xml
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.vbprojAssemblyReference.cache
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.Resources.resources
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.vbproj.GenerateResource.cache
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.exe
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.xml
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.pdb
+C:\Users\Ivan Mak\source\repos\NetD2202Lab3\NetD2202Lab3\obj\Debug\NetD2202Lab3.AUSWithEmployeeDataform.resources
